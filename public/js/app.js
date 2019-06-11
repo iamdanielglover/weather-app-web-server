@@ -31,3 +31,5 @@ weatherForm.addEventListener('submit',(e) => {
     // console.log(e.target[0].value)
     fetchForecast(location)
 })
+
+//setting up heroku
