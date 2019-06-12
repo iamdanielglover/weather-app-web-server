@@ -19,8 +19,6 @@ const fetchForecast = (address) => {
     })
 }
 
-// messageOne.textContent = ''
-
 weatherForm.addEventListener('submit',(e) => {
     e.preventDefault()
     
